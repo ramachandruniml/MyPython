@@ -48,7 +48,6 @@ if __name__== '__main__':
                                 print(fruit)
                                 flag=1
                                 print("Congratulations you won!")
-                                print("-----------------------")
                                 break
 
                             else:

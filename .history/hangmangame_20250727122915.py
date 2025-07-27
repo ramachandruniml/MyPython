@@ -43,12 +43,11 @@ if __name__== '__main__':
 
                             elif((len(letterGuess))==(len(fruit))):
                                 end=1
-                                print("-----------------------")
+                                
                                 print("The word is: ", end = ' ')
                                 print(fruit)
                                 flag=1
                                 print("Congratulations you won!")
-                                print("-----------------------")
                                 break
 
                             else:
